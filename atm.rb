@@ -1,23 +1,3 @@
-
-
-Ir al contenido
-Cómo usar Gmail con lectores de pantalla
-Meet
-Nueva reunión
-Unirte a una reunión
-Hangouts
-
-Conversaciones
-atm exercise
-Recibidos
-
-Roberto Rueda <rueda.roberto89@gmail.com>
-Adjuntos
-18:10 (hace 3 minutos)
-para mí
-
-
-Área de archivos adjuntos
 @password = '123'
 @balance = 1_234_567
 @login_tries = 0
